@@ -1,0 +1,15 @@
+.canvas {
+  width: 80em;
+  height: 20em;
+  border: 1px solid black;
+}
+
+.player {
+  fill: white;
+  stroke: black;
+  stroke-width: 2;
+  x:100;
+  y:80%;
+  width:5%;
+  height:20%;
+}
