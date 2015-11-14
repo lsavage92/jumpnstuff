@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auto",
+				"autocompleteSourceContext"
+			],
+			[
+				"sour",
+				"sourceContext"
+			],
+			[
+				"user",
+				"userCondensedFilters"
+			],
+			[
+				"update",
+				"updatedEmail"
+			],
+			[
+				"upda",
+				"updatedName"
+			],
+			[
+				"lineGroup",
+				"lineGroupText"
+			],
+			[
+				"key",
+				"keyJobPath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": ":move",
+		"selected_items":
+		[
+			[
+				":move",
+				"File: Move"
+			],
+			[
+				":next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				":dis",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"dis",
+				"Coffee: Display JavaScript"
+			],
+			[
+				":mov",
+				"File: Move"
+			],
+			[
+				":nex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				":disp",
+				"Coffee: Display JavaScript"
+			],
+			[
+				":displ",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"displ",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"disp",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"sav",
+				":w - Save"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ne",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"di",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"cof",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"NEXT",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/maps/base-map.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/dashboard/water-transfer.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/maps/search-map.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/maps/transfer-map.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/components/transfer_map_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/month-range-picker.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/dashboard-filters.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/report-refinement-bar.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/views/transfer_map_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/templates/components/filter_partials/_searchable_list.hbs",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/config/filters_config.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/autocomplete_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/searchable_list.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/deep_shaft.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/index_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/dashboard_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/templates/components/dashboard-filters.hbs",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/helpers/computed.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/helpers/helpers.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/dashboard_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/controllers/lease_flow_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/transfer_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/water_transfer.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/wellbore/transfer_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/lease.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/templates/wellbore/transfer.hbs",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/initializers/user-voice.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/Gruntfile.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/wellbore/injection/wellbore-injection-history-chart.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/wellbore/production_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/remove_all.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/well_marker_canvas.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/map_base_layer.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/leaflet.js",
+		"/Users/lukesavage/Documents/untitled.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/region_layer.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/polyline_labels.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/leaflet/map.bubble.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/calculate_bar_chart_segment_style_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/plot_band.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/series.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/series_set.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/request_management_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/dashboard/trend_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/templates/dashboard/trend.hbs",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/trend_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/table_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/helpers/helpers.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/mixins.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/no_data_chart_view_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/plot_line.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/plot_line.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/object.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/charting/label.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/lease_flow_route_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/dashboard_child_route_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/controllers/dashboard_map_controller_mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/water-transfer-table.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/components/data-view-mixin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/temporary/metric_rule.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/filter.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/toggle_list.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o.sublime-project",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/slider.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/metric_rules.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/geography_filter.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/geo_structure_filter.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/checklist_filter.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/dashboard/index_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/water_transfer_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/saved_search.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/dashboard/index_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/dashboard_child_route_mixin.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/application_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/templates/dashboard.hbs",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/request_management_mixin.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/distribution_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/summary_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/data_dashboard_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/search_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/map_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/error_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/dashboard/correlation_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/account/user_admin_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/account/index_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/account/group-admin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/account/admin_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/wellbore/injection/wellbore-pressure-chart.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/injection_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/production_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/mixins/routes/wellbore_child_route_mixin.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/wellbore.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/wellbore/production_route.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/map-ruler.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/wellbore/injection_route.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/wellbore/loading_route.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/filters/checklist_filter.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/maps/base-map.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/selection-list.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/validator-input.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/high-charts.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/lease/outgoing_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/modal_dialog_component.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/more-info.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/standard-chart.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/components/water-transfer-trend-chart.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/dashboard/map_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/index_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/drilling_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/wellbore/completions_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/account/admin_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/account/admin_controller.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/login/reset_password_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/login/index_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/login/forgot_password_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/account/index_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/models/glossary_item.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/routes/account/admin_route.js.coffee",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/account/group-admin.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/login/email_sent_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/controllers/account/user_admin_controller.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/search_proxy_route.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/wellbore_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/application_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/admin_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/row_view.js",
+		"/Users/lukesavage/Documents/digitalh2o/dh2o-deep-shaft/src/client_src/js/views/data_dashboard/metric_release_timeline_view.js.coffee"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.hbs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"zoom",
+			"transition",
+			"canResetSearch",
+			"reset-search",
+			"updateCoor",
+			"bounds",
+			"zoom",
+			"searchableList",
+			"debugg",
+			"_createSearch",
+			"createSear",
+			"term",
+			"debugg",
+			"completion",
+			"searchableList",
+			"createSearch",
+			"completionSourc",
+			"searchables",
+			"term",
+			"submitQuery",
+			"debugger",
+			"allowCondensedFilters",
+			"toggle",
+			"allFlows",
+			"mappableFlows",
+			"mappable",
+			";\n",
+			"'],\n",
+			"userVoice",
+			"*.coffee",
+			"DrawControl",
+			"initDrawControl",
+			"_this",
+			"totalObservations",
+			"src/client_src/js",
+			".coffee",
+			".",
+			"coffee",
+			"_this",
+			"void 0",
+			"_this",
+			"void 0",
+			"ToggleListSelection",
+			"void 0",
+			"debugg",
+			"debugger",
+			"controllers.dashboard.model",
+			"savedSearch",
+			"savedSearc",
+			"savedSearch",
+			"dashboard-filters",
+			"savedSearch:",
+			"debugger",
+			"function",
+			"ruleCount: Em.computed('rules',",
+			"_this",
+			"void 0",
+			"_this",
+			"ref",
+			"_this",
+			"wellbore.p18s",
+			"wellbore.p1s",
+			"return this.get(\"wellbore.p18s\")",
+			"getProduction",
+			"searchableLists",
+			"debugger",
+			"linkFilters",
+			"c",
+			"this.get",
+			"_this",
+			"#",
+			"_this",
+			"RulerPointConversion",
+			"_this",
+			" ",
+			"',",
+			"_this",
+			"DeepShaft.SidebarMinimapView",
+			"var",
+			"_this",
+			"miniMapProperties",
+			"miniMap",
+			"latLong",
+			"ref",
+			"_this",
+			"#",
+			"'>#{",
+			"#",
+			"$",
+			"=> ",
+			"y"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jumpnstuff.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dashboard-filter",
+				"src/client_src/js/templates/components/dashboard-filters.hbs"
+			],
+			[
+				"dashboard-filters",
+				"src/client_src/js/components/dashboard-filters.js"
+			],
+			[
+				"dashboard",
+				"src/client_src/js/components/dashboard-filters.js"
+			],
+			[
+				"dash",
+				"src/client_src/js/components/dashboard-filters.js"
+			],
+			[
+				"production",
+				"src/client_src/js/views/wellbore/production_view.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

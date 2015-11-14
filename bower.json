@@ -1,0 +1,29 @@
+{
+  "name": "jumpnstuff",
+  "authors": [
+    "Colton Savage <csavage1994@gmail.com>",
+    "Luke Savage <luke.savage92@gmail.com>"
+  ],
+  "description": "Jumping game for friends and family",
+  "main": "./app.js",
+  "moduleType": [],
+  "keywords": [
+    "jump",
+    "game",
+    "fun",
+    "friends"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
