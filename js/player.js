@@ -16,13 +16,4 @@ var Player = function(){
       }
     });
   }
-
-  this.fall = function(){
-    $('.player').animate({
-      y: '0%'
-    }, 1000, function(){
-      console.log('animation done');
-      })
-  }
-
 };
