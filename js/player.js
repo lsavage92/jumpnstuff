@@ -3,9 +3,15 @@ var Player = function(){
     $('body').keyup(function(e){
       if(e.keyCode === 32){
         $('.player').animate({
-          fill: "black"
-        }, 1000, function(){
+           y: '20%'
+        }, 500, function(){
+          $('.player').animate({
+      y: '+=60%'
+    }, 500, function(){
+      console.log('animation done');
+      })
           console.log('animation done');
+          
         })
       }
     });
